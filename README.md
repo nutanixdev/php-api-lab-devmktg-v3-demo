@@ -8,7 +8,7 @@ Those with Laravel experience are welcome to download this demo and use as they 
 
 ## License
 
-Please see the accompanying LICENSE file that is distributed with this repository.
+Please see the accompanying `LICENSE` file that is distributed with this repository.
 
 ## Disclaimer
 
